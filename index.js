@@ -31,5 +31,5 @@ else if (randomNumber2 > randomNumber1) {
   document.querySelector("h1").innerHTML = "Jogador 2 🏆";
 }
 else {
-  document.querySelector("h1").innerHTML = " Empate 🤬"
+  document.querySelector("h1").innerHTML = "Empate 🤬"
 }
